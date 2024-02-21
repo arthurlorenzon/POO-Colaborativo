@@ -1,5 +1,5 @@
 # POO-Colaborativo
-- Enzo Fagundes Barbi 
+- Enzo Barbi 
 - Arthur Lorenzon
 - Henrique Patricio
 - Eduardo Ferraz
