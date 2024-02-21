@@ -7,6 +7,14 @@
 
 ## Comandos git
 
+### init
+
+Criar novo repositório
+
+```
+git init
+```
+
 ### log
 
 Mostrar registros de commit
@@ -27,4 +35,3 @@ git restore [<options>] [--source=<tree>] [--staged] [--worktree] --pathspec-fro
 [--pathspec-file-nul]
 
 git restore (-p|--patch) [<options>] [--source=<tree>] [--staged] [--worktree] [--] [<pathspec>…​]
-```
