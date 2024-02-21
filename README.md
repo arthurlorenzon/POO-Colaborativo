@@ -9,6 +9,7 @@
 
 ### init
 
-```bash
 Criar novo repositório
+```
+git init
 ```
