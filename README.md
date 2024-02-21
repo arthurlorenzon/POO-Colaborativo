@@ -15,6 +15,14 @@ Criar novo repositório
 git init
 ```
 
+### status
+
+Verificar estado dos arquivos/diretórios
+
+```
+git status
+```
+
 ### log
 
 Mostrar registros de commit
@@ -35,3 +43,4 @@ git restore [<options>] [--source=<tree>] [--staged] [--worktree] --pathspec-fro
 [--pathspec-file-nul]
 
 git restore (-p|--patch) [<options>] [--source=<tree>] [--staged] [--worktree] [--] [<pathspec>…​]
+
