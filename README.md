@@ -13,3 +13,10 @@ Criar novo repositório
 ```
 git init
 ```
+
+### status
+
+Verificar estado dos arquivos/diretórios
+```
+git status
+```
