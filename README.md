@@ -1,3 +1,4 @@
 # POO-Colaborativo
 
--Henrique Patricio
+- Henrique Patricio
+- Eduardo Ferraz
